@@ -1,4 +1,4 @@
-# MobileRobot-Openloopcontrol
+# Mobile Robot-Open loop control
 ## Aim:
 
 To develop a python control code to move the mobilerobot along the predefined path.
@@ -92,7 +92,7 @@ if _name_ == '_main_':
     ep_robot.close()
 ```
 
-## MobileRobot Movement Video:
+## Mobile Robot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
 
