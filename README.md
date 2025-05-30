@@ -96,8 +96,7 @@ if _name_ == '_main_':
 
 Upload your video in Youtube and paste your video-id here
 
-https://youtu.be/eorTEMoVip8?si=Ju6ggrlJX_xnKwG9
-
+https://youtu.be/KquGvlEN9CE
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
